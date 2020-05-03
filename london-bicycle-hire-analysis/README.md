@@ -1,6 +1,8 @@
 # London Santander Cycle Hire
 
-Exploratory analysis of London's Santander Cycle Hire Scheme data.
+Exploratory analysis of London's Santander Cycle Hire Scheme data. 
+
+This project leverages data warehousing (BigQuery's and the python client) to process large amounts of data, Google Maps API to retrieve attribute about locations and visualisation packages like plotly and seaborn. 
 
 <p align="center">
 <img src="img/alessandra-caretto-bicycle.jpg">
